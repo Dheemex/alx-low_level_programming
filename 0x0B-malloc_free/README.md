@@ -27,3 +27,9 @@ Memory for the new string is obtained with malloc, and can be freed with free.
 Returns NULL if str = NULL
 On success, the _strdup function returns a pointer to the duplicated string. 
 It returns NULL if insufficient memory was available
+
+Repo:
+
+GitHub repository: alx-low_level_programming
+Directory: 0x0B-malloc_free
+File: 1-strdup.c
